@@ -42,3 +42,23 @@ header {
     right: 20px;
 }
 /* Style other sections as needed */
+
+section#about {
+    background-color: #f9f9f9;
+    padding: 40px 0;
+    text-align: center;
+}
+
+section#about h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+section#about p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
